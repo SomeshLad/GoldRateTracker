@@ -55,6 +55,10 @@ Gold Rate Tracker is made for the investors/lenders to make their work fluently 
   
   <p align=center><img src="https://github.com/aniketsingh98571/Web_Development/blob/master/Project%20Gif.gif"></p>
   
+  [Presentation](https://drive.google.com/file/d/1afEUcjhbt0sbAVphhO-SfOruo00XPyHs/view?usp=sharing)
+  [Video](https://drive.google.com/file/d/1n1K6oms9PRhulMNI18MqMuSZhhtbFrcJ/view?usp=sharing)
+
+  
    ### 🎖Mentors/Contributors🎖
    1. 🥇[Pushkar Khadase](https://github.com/pushkarkhadase)
    2. 🏅[Tanmay Vaidya](https://github.com/Tanmay4669)
