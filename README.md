@@ -48,7 +48,7 @@ Gold Rate Tracker is made for the investors/lenders to make their work fluently 
   ---
    ### 🏅How to Run🏅
   1. Fork the Repository
-  2.  `git clone`
+  2.  `git clone https://github.com/YOUR-USERNAME/Gold_Rate_Tracker`
   3. `cd Gold_Rate_Tracker`
   4. Go to  [`/Python`](https://github.com/aniketsingh98571/Gold_Rate_Tracker/tree/main/Python)
   5. `python Home_Page.py`
